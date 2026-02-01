@@ -105,5 +105,7 @@ venv/
 ALL_PROJECT_CODE.txt
 *.txt
 
+.kombai/
 
 data/
+data/**/*
