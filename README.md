@@ -2,6 +2,24 @@
 
 **Owlset** is an intelligent code analysis tool that helps developers understand complex codebases through visual dependency graphs and insights. It makes visualisation and getting through the codebase effiecient and easy, as It targets to link each dependency and How they effect the codebase.
 
+## Screenshots
+
+<div align="center">
+
+### Function Analysis View
+![Function Analysis](./assets/screenshot-1.png)
+*Explore function details, dependencies, and call relationships with interactive flow graphs*
+
+### AI-Powered Insights
+![AI Assistant](./assets/screenshot-2.png)
+*Get contextual explanations and detailed analysis of your code using AI*
+
+### Dependency Visualization
+![Dependency Graph](./assets/screenshot-3.png)
+*Visualize code relationships and understand how functions connect across your codebase*
+
+</div>
+
 ## Features
 
 - **Dependency Mapping** - Automatically parses and visualizes function-level dependencies across your codebase
